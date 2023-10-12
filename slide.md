@@ -182,7 +182,7 @@ paginate: true
 
 # 総まとめ: Githubで共同作業をしてみよう
 
----
+---　勉強になりました！あざました！
 
 # Special Thanks : 参加者の方々
 
