@@ -106,7 +106,7 @@ paginate: true
    - 例: `cd C:\Users\username\GitHub_test`
 3. `git init` と入力して、初期化する。
    - ｢Initialized empty Git repository in ～｣と表示されればOK。
-
+便利だけと勉強が必要そう。
 ---
 
 # Gitを始めてみよう:Mac編-3
