@@ -168,7 +168,7 @@ paginate: true
    - 例: `git config --global user.name "Kota Takahashi"`
    - 例: `git config --global user.email "hoge@hoge.com"`
 
----
+---``
 
 # そろそろ黒い画面に疲れてきたので、VSCodeも使ってみよう
 
@@ -196,7 +196,7 @@ paginate: true
 5.  `git push` する
 6.  GitHubのページ上で、このリポジトリにプルリクエストを送る
 -->
-***米沢***
+***米沢-san***
 
 ---
 
